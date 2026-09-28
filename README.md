@@ -59,7 +59,11 @@ This conclusion is limited to static analysis. Additional dynamic analysis and r
 
 ## Report
 
-The complete analysis report is available in the `Report` folder.
+## Full Report
+
+You can view the complete analysis report here:
+
+[View APK Static Analysis Report](./Report/APK_Static_Analysis_Report_Kunal_Rajpurohit.pdf)
 
 ## Screenshots
 
